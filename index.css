@@ -1,12 +1,20 @@
 body {
   background-color: red;
+  background-image: url("https://media3.giphy.com/media/5jT0jaNDsM6Ik7X9yq/giphy.gif");
 } 
 h1 {
   background-color: blue;
-  color:red
+  Color:red 
 }
 p {
-  background-color: blue;
+  background-color: ; 
   color:red
 }
-
+marquee {
+  background-color: red;
+  color: green
+}
+h3{
+  color: blue
+    
+}
